@@ -1,7 +1,7 @@
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+ 
 
-
-# Bitcoin Ticker 🤑
+# Bitcoin Ticker Demo Project developed by Toni Kreso 🤑
 
 ## Our Goal
 
